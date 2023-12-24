@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 hello-world
 
 My name is hello world
 
 my name is heyaa
+=======
+hello-world
+>>>>>>> parent of 7fef280 (mydata update-1)
